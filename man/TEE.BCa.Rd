@@ -20,7 +20,7 @@ define a symbolic description of the model to be fitted.
 specify the dataset used for performing regression analysis. It must be formatted in data frame.
 }
   \item{offset}{
-specify an known component to be included in the linear predictor during fitting. This argument should be either NULL or a numeric vector with length equal to the number of observations. 
+specify a known component to be included in the linear predictor during fitting. This argument should be either NULL or a numeric vector with length equal to the number of observations. 
 }
   \item{p.trimmed}{
 define the trimming proportion of elemental subsets. This should be either NULL or a numeric value between 0 and 1. When method = "tee" is specified, a numeric value must be provided.

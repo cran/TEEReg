@@ -1,1 +1,7 @@
 exportPattern("^[[:alpha:]]+")
+  
+importFrom("stats", "complete.cases", "is.empty.model", "model.matrix",
+             "model.offset", "model.response", "pnorm", "qnorm",
+             "quantile")
+  
+importFrom("utils", "combn")

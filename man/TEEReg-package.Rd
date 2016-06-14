@@ -6,17 +6,17 @@
 Trimmed Elemental Estimation for Linear Models.
 }
 \description{
-Package provides functions for computing the trimmed elemental estimates, as well as for creating the bias-corrected and accelerated bootstrap confidence intervals in the context of trimmed elemental regressions. This approach offers a robust alternative to ordinary least squares.
+Package provides functions for computing the trimmed elemental estimates, as well as for creating the bias-corrected and accelerated bootstrap confidence intervals based on trimmed elemental regressions. This approach offers a robust alternative to ordinary least squares.
 }
 \details{
 \tabular{ll}{
 Package: \tab TEEReg\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-10-06\cr
+Version: \tab 1.1\cr
+Date: \tab 2016-06-12\cr
 License: \tab GPL (version 2 or later) \cr
 }
-There are major two functions in the package. The TEE function is for computing the trimmed elemental estimates. The TEE.BCa function is for creating the bias-corrected accelerated bootstrap confidence intervals for regression parameters.
+There are two major functions in the package. The TEE function is for computing the trimmed elemental estimates. The TEE.BCa function is for creating the bias-corrected accelerated bootstrap confidence intervals for regression parameters.
 }
 \author{
 Wei Jiang and Matthew S. Mayo

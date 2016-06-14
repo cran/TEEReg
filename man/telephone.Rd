@@ -5,7 +5,7 @@
 An example dataset for TEEReg. 
 }
 \description{
-The telephone data records the number of telephone calls (tens of millions) made in Belgium from 1959 to 1973. There are several outliers resulted from mistakes in the recording units over the years 1964 to 1969.
+The telephone data records the number of telephone calls (tens of millions) made in Belgium from 1959 to 1973. There are several outliers resulted from mistakes in recording units over the years 1964 to 1969.
 }
 \usage{data(telephone)}
 \format{
